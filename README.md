@@ -1,6 +1,7 @@
 # clima
 
-A new Flutter project.
+# Version 1.0 Publishing Date : 19.JUNE.2021
+Download the release here - https://drive.google.com/file/d/1o_If9ikZjqp7wZYQTaK0fb8QRJ1qgEka/view?usp=sharing
 
 ## Getting Started
 
