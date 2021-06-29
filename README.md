@@ -1,17 +1,20 @@
 # clima
 
 # Version 1.0 Publishing Date : 22.JUNE.2021
-Download the release here - https://drive.google.com/file/d/1o_If9ikZjqp7wZYQTaK0fb8QRJ1qgEka/view?usp=sharing
 
-## Getting Started
+To download this android app and run it on you physical device, download the apk and install it on you device Also allow access for your location, You can view code no location data is being saved [Download Here](https://drive.google.com/file/d/1o_If9ikZjqp7wZYQTaK0fb8QRJ1qgEka/view?usp=sharing).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project has been made using Flutter(2.2) and Dart(2.13). This project contains supports for Andriod, IOS, as well as Web.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In this project I have created a platform which can fetch the current weather condition using the the current location an you can search for the weather of any city, In coming updates this will be upgraded and many more features will be added in the platfrom..
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to do anything this repository.
+
+## Learn 
+
+- [DART PROGRAMMING LANGUAGE](https://dart.dev/)
+- [FLUTTER](https://flutter.dev/)
+- [FIREBASE](https://firebase.google.com/)
+- [OpenWeatherMap](https://openweathermap.org/)
+    
